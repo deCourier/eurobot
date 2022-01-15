@@ -1,0 +1,10 @@
+K: [[675.0985444603796, 0.0, 1214.9956928447211], [0.0, 675.9479477032307, 1009.8182085770047],[0.0, 0.0, 1.0]]
+D: [[0.049063685594339906], [-0.059171382879475695], [0.06232511135308116], [-0.018238995876111955]]
+DIM: [2448, 2048]
+PROJECTION_MATRIX: [[ 1.95613949e+01,  1.44453296e+01, -1.80988757e+04],
+                    [-1.79560681e+00,  3.86059060e+01, -1.57689556e+04],
+                    [-1.03130341e-03,  1.15055817e-02,  6.20443967e+00]]
+TEMPLATE_PATH: '/home/eurobot/Desktop/eurobot_camera/src/eurobot_camera/template/template.jpg'
+MODEL_CONFIG_PATH: '/home/eurobot/Desktop/eurobot_camera/src/eurobot_camera/model_config/yolov3-tiny_cups.cfg'
+MODEL_WEIGHTS_PATH: '/home/eurobot/Desktop/eurobot_camera/src/eurobot_camera/weights/2503_1200ep.weights'
+CLASSES: ['red_cup', 'green_cup', 'g', 'r']
